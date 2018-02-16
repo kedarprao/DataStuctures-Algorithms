@@ -1,9 +1,9 @@
 /**
  * Your implementation of a linked queue. It should NOT be circular.
  *
- * @author YOUR NAME HERE
- * @userid YOUR USER ID HERE (e.g. gburdell3)
- * @GTID YOUR GT ID HERE (e.g. 900000000)
+ * @author Kedar Rao
+ * @userid krao9
+ * @GTID 902842074
  * @version 1.0
  */
 public class LinkedQueue<T> implements QueueInterface<T> {
